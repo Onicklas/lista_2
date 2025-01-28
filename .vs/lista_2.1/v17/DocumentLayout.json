@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nicolas.lsilva5\\source\\repos\\lista_2.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{298F1617-54B8-40EB-82C2-D9BC010C2E09}|lista2.2\\lista2.2.csproj|c:\\users\\nicolas.lsilva5\\source\\repos\\lista_2.1\\lista2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298F1617-54B8-40EB-82C2-D9BC010C2E09}|lista2.2\\lista2.2.csproj|solutionrelative:lista2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6150A2B0-C2DC-4AC6-9458-7D4C854800C9}|lista_exercicios2\\lista_exercicios2.csproj|c:\\users\\nicolas.lsilva5\\source\\repos\\lista_2.1\\lista_exercicios2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6150A2B0-C2DC-4AC6-9458-7D4C854800C9}|lista_exercicios2\\lista_exercicios2.csproj|solutionrelative:lista_exercicios2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.lsilva5\\source\\repos\\lista_2.1\\lista2.2\\Program.cs",
+              "RelativeDocumentMoniker": "lista2.2\\Program.cs",
+              "ToolTip": "C:\\Users\\nicolas.lsilva5\\source\\repos\\lista_2.1\\lista2.2\\Program.cs",
+              "RelativeToolTip": "lista2.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:46:15.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nicolas.lsilva5\\source\\repos\\lista_2.1\\lista_exercicios2\\Program.cs",
               "RelativeDocumentMoniker": "lista_exercicios2\\Program.cs",
               "ToolTip": "C:\\Users\\nicolas.lsilva5\\source\\repos\\lista_2.1\\lista_exercicios2\\Program.cs",
               "RelativeToolTip": "lista_exercicios2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T19:11:56.513Z",
               "EditorCaption": ""

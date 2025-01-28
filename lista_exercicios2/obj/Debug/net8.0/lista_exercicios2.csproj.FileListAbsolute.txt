@@ -1,0 +1,15 @@
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\obj\Debug\net8.0\lista_exercicios2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\obj\Debug\net8.0\lista_exercicios2.AssemblyInfoInputs.cache
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\obj\Debug\net8.0\lista_exercicios2.AssemblyInfo.cs
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\obj\Debug\net8.0\lista_exercicios2.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\obj\Debug\net8.0\lista_exercicios2.sourcelink.json
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\bin\Debug\net8.0\lista_exercicios2.exe
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\bin\Debug\net8.0\lista_exercicios2.deps.json
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\bin\Debug\net8.0\lista_exercicios2.runtimeconfig.json
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\bin\Debug\net8.0\lista_exercicios2.dll
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\bin\Debug\net8.0\lista_exercicios2.pdb
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\obj\Debug\net8.0\lista_exercicios2.dll
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\obj\Debug\net8.0\refint\lista_exercicios2.dll
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\obj\Debug\net8.0\lista_exercicios2.pdb
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\obj\Debug\net8.0\lista_exercicios2.genruntimeconfig.cache
+C:\Users\nicolas.lsilva5\source\repos\lista_2.1\lista_exercicios2\obj\Debug\net8.0\ref\lista_exercicios2.dll
